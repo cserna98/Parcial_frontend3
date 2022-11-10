@@ -1,2 +1,3 @@
 # Parcial_frontend3
-Examen parcial de frontend 3 Digital Houese
+Examen parcial Cristian Serna de frontend 3 Digital House
+-Cristian Serna
